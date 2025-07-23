@@ -1,0 +1,21 @@
+/* li中子元素em 后代 */
+li em{
+    color: rebeccapurple;
+}
+
+/* 相邻选择符 */
+h1 + p{
+    font-size: 200%;
+}
+
+a:link{
+    color: pink;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    text-decoration: none;
+}
